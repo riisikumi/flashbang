@@ -1,0 +1,37 @@
+{
+  "tempHash": "0037AA1A61D02CD2",
+  "tbluHash": "008275375D549E32",
+  "patch": [
+    {
+      "SubEntityOperation": [
+        "d25ca46f5605da0b",
+        { "RemovePropertyByName": "m_AvailableGrenadeKeys" }
+      ]
+    },
+    {
+      "SubEntityOperation": [
+        "2d16cfe64fa9332d",
+        { "RemovePropertyByName": "m_AvailableGrenadeKeys" }
+      ]
+    },
+    {
+      "SubEntityOperation": [
+        "31d0fe4b43bdc190",
+        { "RemovePropertyByName": "m_AvailableGrenadeKeys" }
+      ]
+    },
+    {
+      "SubEntityOperation": [
+        "39fb85ed33073935",
+        { "RemovePropertyByName": "m_AvailableGrenadeKeys" }
+      ]
+    },
+    {
+      "SubEntityOperation": [
+        "c456324261069ae4",
+        { "RemovePropertyByName": "m_AvailableGrenadeKeys" }
+      ]
+    }
+  ],
+  "patchVersion": 6
+}

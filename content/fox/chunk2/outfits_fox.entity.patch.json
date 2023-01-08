@@ -1,0 +1,19 @@
+{
+  "tempHash": "00AAF7A62718DE49",
+  "tbluHash": "00782A77D7261C71",
+  "patch": [
+    {
+      "SubEntityOperation": [
+        "4ae4ade27e5dc434",
+        { "RemovePropertyByName": "m_AvailableGrenadeKeys" }
+      ]
+    },
+    {
+      "SubEntityOperation": [
+        "655254dc341df695",
+        { "RemovePropertyByName": "m_AvailableGrenadeKeys" }
+      ]
+    }
+  ],
+  "patchVersion": 6
+}

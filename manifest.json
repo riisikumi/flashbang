@@ -1,0 +1,283 @@
+{
+	"version": "2.0.0",
+	"id": "riisikumi.flashbang",
+	"name": "No More Flashbang",
+	"description": "Guards will no longer throw flashbangs at your face",
+	"authors": ["riisikumi"],
+	"frameworkVersion": "2.0.0",
+	"options": [
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Prologue",
+			"contentFolders": ["content/prologue"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Prologue"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Paris",
+			"contentFolders": ["content/paris"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Paris"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Sapienza",
+			"contentFolders": ["content/coastaltown"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Sapienza"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Marrakesh",
+			"contentFolders": ["content/marrakesh"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Marrakesh"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Colorado",
+			"contentFolders": ["content/colorado"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Colorado"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Hokkaido",
+			"contentFolders": ["content/hokkaido"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Hokkaido"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Hawke's Bay",
+			"contentFolders": ["content/sheep"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Hawke's Bay"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Miami",
+			"contentFolders": ["content/miami"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Miami"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Santa Fortuna",
+			"contentFolders": ["content/colombia"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Santa Fortuna"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Mumbai",
+			"contentFolders": ["content/mongoose"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Mumbai"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Whittleton Creek",
+			"contentFolders": ["content/skunk"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Whittleton Creek"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Isle of Sgail",
+			"contentFolders": ["content/theisland"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Isle of Sgail"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "New York",
+			"contentFolders": ["content/raccoon"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "New York"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Haven Island",
+			"contentFolders": ["content/stingray"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Haven Island"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Dubai",
+			"contentFolders": ["content/gecko"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Dubai"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Dartmoor",
+			"contentFolders": ["content/bulldog"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Dartmoor"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Berlin",
+			"contentFolders": ["content/fox"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Berlin"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Chongqing",
+			"contentFolders": ["content/rat"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Chongqing"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Mendoza",
+			"contentFolders": ["content/llama"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Mendoza"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Carpathian Mountains",
+			"contentFolders": ["content/wolverine"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Carpathian Mountains"
+		},
+		{
+			"name": "Flashbangs removed",
+			"tooltip": "Stops guards from throwing flashbangs at you",
+			"type": "select",
+			"enabledByDefault": true,
+			"group": "Ambrose Island",
+			"contentFolders": ["content/dugong"]
+		},
+		{
+			"name": "Vanilla",
+			"type": "select",
+			"group": "Ambrose Island"
+		}
+	]
+}
